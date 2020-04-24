@@ -1,0 +1,19 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.img-container {
+    height: 250px;
+    width: 300px;
+    margin: 2%;
+}
+
+h2{
+  text-align: center;
+  color: #91074a;
+}
+
+.main-container {
+    background-color: #fcf5fb
+}
